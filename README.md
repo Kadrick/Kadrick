@@ -8,9 +8,7 @@ Hi, everybody.
 
 I'm a sophomore year student in Kyungpook National University CSE.
 My Code, English are not very good. Still, I look forward to your kind cooperation.
-
-The profiles of other platforms are as follows.  
-bla bla~
+<!-- The profiles of other platforms are as follows.  -->
 
 If any question, email to me.  
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:kbk2581553@gmail.com)
