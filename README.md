@@ -6,7 +6,7 @@
 
 Hi, everybody.
 
-I'm a sophomore year student in Kyungpook National University CSE.
+I'm a sophomore year student in Kyungpook National University CSE.  
 My Code, English are not very good. Still, I look forward to your kind cooperation.
 <!-- The profiles of other platforms are as follows.  -->
 
