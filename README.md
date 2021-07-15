@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=#FFA07A&section=header&text=HI!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=soft&color=FFE4C4&text=Reach%20for%20the%20stars.&fontSize=60&height=100&animation=fadeIn&fontcolor=BDB76B)
 
-# BO GWON 
+# User Name : BO GWON KANG / 강보권
 --------------------------------------
 ### Summary
 
@@ -17,6 +17,11 @@ If any question, email to me.
   
   
 --------------------------------------
+solved.ac  
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kadrick)](https://solved.ac/kadrick)
+
+top langs  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kadrick&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 	
