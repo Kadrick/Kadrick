@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=FFE4C4&text=Reach%20for%20the%20stars.&fontSize=30&height=60&animation=fadeIn&fontcolor=BDB76B)
 
-## User Name : BO GWON KANG / 강보권
+## BO GWON KANG / 강보권
 --------------------------------------
 ### Summary
 
