@@ -41,6 +41,18 @@ If you want to contact me, please contact me by email me.
 
 --------------------------------------
 ## Other
+#### Github stats
+<table>
+	<tr>
+		<td valign="top" width="50%">
+			<img src="https://github-readme-stats.vercel.app/api?username=Kadrick&show_icons=true&count_private=true&hide_border=true" align="left" />
+		</td>
+		<td valign="top" width="50%">
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadrick&hide_border=true&layout=compact" align="right" />
+		</td>
+	</tr>
+</table>  
+
 #### solved.ac  
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kadrick)](https://solved.ac/kadrick)	
