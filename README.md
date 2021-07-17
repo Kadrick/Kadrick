@@ -45,10 +45,10 @@ If you want to contact me, please contact me by email me.
 <table>
 	<tr>
 		<td valign="top" width="50%">
-			<img src="https://github-readme-stats.vercel.app/api?username=Kadrick&show_icons=true&count_private=true&hide_border=true" align="left" />
+			<img src="https://github-readme-stats.vercel.app/api?username=Kadrick&show_icons=true&count_private=true&hide_border=true" align="center" />
 		</td>
 		<td valign="top" width="50%">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadrick&hide_border=true&layout=compact" align="right" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadrick&hide_border=true&layout=compact" align="center" />
 		</td>
 	</tr>
 </table>  
