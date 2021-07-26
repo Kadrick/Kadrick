@@ -37,7 +37,7 @@ If you want to contact me, please contact me by email me.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='50'>](https://github.com/Kadrick)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/discord.svg' alt='discord' height='50'>](ㄱㅂㄱ#6092)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/notion.svg' alt='notion' height='50'>](https://splashy-driver-8c4.notion.site/My-Profile-Page-89ee13f0b9054ad98f2c9557e0427368)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/notion.svg' alt='notion' height='50'>](https://kadrick.notion.site/89ee13f0b9054ad98f2c9557e0427368)
 
 --------------------------------------
 ## Other
