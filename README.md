@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BoGwon Kang / 강보권</h1>
 <h3 align="center">I am an undergraduate in CSE at Kyungpook National University.</h3>
 
-* 🌱 I’m currently learning **Algorithm & Web/Game Development.**
+* 🌱 I’m currently learning **Computer Science**
 
 * 📝 I regularly write articles on [http://kadrick.kro.kr/](http://kadrick.kro.kr/)
 
