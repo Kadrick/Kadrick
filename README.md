@@ -5,6 +5,8 @@
 
 * 📝 I regularly write articles on **[http://kadrick.kro.kr/](http://kadrick.kro.kr/)**
 
+* 📝 I regularly write articles on **[https://kadrick.github.io/Blog/](http://kadrick.github.io/Blog/)**
+
 * 📫 How to reach me **kbk2581553@gmail.com**
 
 <!--
