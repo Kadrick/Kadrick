@@ -1,3 +1,6 @@
+<h1>(╯･Д･)╯ (´･ω･`)?</>
+
+<!--
 <h1 align="center">Hi 👋, I'm BoGwon Kang / 강보권</h1>
 <h3 align="center">I am an undergraduate in CSE at Kyungpook Nat'l Univ.</h3>
 
@@ -9,7 +12,6 @@
 
 * 📫 How to reach me **kbk2581553@gmail.com**
 
-<!--
 #### Github stats
 <table>
 
